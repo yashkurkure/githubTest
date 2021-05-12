@@ -10,6 +10,7 @@ int main(int argc, char *argv[])
 	std::cout<<"\t~By Yash Kurkure"<<"\n";
 
 	std::cout<<"\n";
-        std::cout<<"05/12/2021 2:41PM: This line was added for the ssh test."
+    std::cout<<"05/12/2021 2:41PM: This line was added for the ssh test.";
+	std::cout<<"05/12/2021 7:21PM: Test for git using VS Code";
 	return 0;
 }
