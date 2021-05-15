@@ -41,6 +41,6 @@ Bullet points (Using dashes):
 
 ## Anchor links to places
 
-1. To parts of readme: [Go to Playing with Texts section](## Playing with texts:)
+1. To parts of readme: [Go to Playing with Texts section](##Playing-with-texts:)
 2. To other URLs: [Click me to open google!](https://www.google.com/)
 
