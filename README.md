@@ -24,4 +24,7 @@ Bullet points (Using dashes):
 - Bullet 2
   - Buller 2.1
   - Bullet 2.2
-  
+
+# A wholsome image :)
+![Doggo and Catto](https://github.com/yashkurkure/githubTest/blob/main/images/image0.jpg?raw=true)
+
