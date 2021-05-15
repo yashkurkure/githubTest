@@ -1,6 +1,6 @@
 # githubTest
 
-# Playing with texts:
+## Playing with texts:
 
 Making words bold:
 **bold**
@@ -8,7 +8,10 @@ Making words bold:
 Making words italic:
 *italic*
 
-# Lists:
+Crossing out words:
+~~crossed line~~~
+
+## Lists:
 
 Numbered:
 1. One
@@ -25,11 +28,19 @@ Bullet points (Using dashes):
   - Buller 2.1
   - Bullet 2.2
 
-# A wholsome image :)
+## Images
+
+### A wholsome image :)
 ![Doggo and Catto](https://github.com/yashkurkure/githubTest/blob/main/images/image0.jpg?raw=true)
 
-How about 2 images in a row? {Using Tables}
+### How about 2 images in a row? {Using Tables}
 
 | Column 1 | Column 2|
 | --- | --- | 
 | ![Shiba Inu](https://github.com/yashkurkure/githubTest/blob/main/images/image1.jpg?raw=true) | ![Shiba Inu Stonks](https://github.com/yashkurkure/githubTest/blob/main/images/image2.jpg?raw=true) |
+
+## Anchor links to places
+
+1. To parts of readme: [Go to Playing with Texts section] (## Playing with texts:)
+2. To other URLs: [Click me to open google!] (https://www.google.com/)
+
