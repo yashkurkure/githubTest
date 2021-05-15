@@ -28,3 +28,6 @@ Bullet points (Using dashes):
 # A wholsome image :)
 ![Doggo and Catto](https://github.com/yashkurkure/githubTest/blob/main/images/image0.jpg?raw=true)
 
+How about 2 images in a row?
+
+![Shiba Inu](https://github.com/yashkurkure/githubTest/blob/main/images/image1.jpg?raw=true) ![Shiba Inu Stonks](https://github.com/yashkurkure/githubTest/blob/main/images/image2.jpg?raw=true)
